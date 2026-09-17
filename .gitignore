@@ -1,0 +1,33 @@
+# Dataset folders
+train/
+test/
+train_json/
+test_json/
+
+# Dataset CSV files
+Train.csv
+Test.csv
+sample_submission.csv
+wavlm_finetuning_history.csv
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+
+# Generated feature files
+*.npy
+*.npz
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Temporary files
+*.crdo
+*.crdownload
+
