@@ -121,7 +121,7 @@ Python · Scikit-learn (SVM) · PyTorch (CNN, Transfer Learning) · Librosa (STF
 ## Installation
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/AnshitaSingh01/speech-depression-detection
 cd speech-depression-detection
 pip install -r requirements.txt
 ```
